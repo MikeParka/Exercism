@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VisualStudioRepository\\Exercism - CarsAssemble\\Exercism - CarsAssemble\\Exercism - CarsAssemble.csproj",
+      "projectUniqueName": "C:\\Users\\Michal.Parka\\OneDrive - cgpbooks.co.uk\\Powershell\\GitHubRepo\\Exercism\\C#\\CarsAssemble\\Exercism - CarsAssemble\\Exercism - CarsAssemble.csproj",
       "projectName": "Exercism - CarsAssemble",
-      "projectPath": "D:\\VisualStudioRepository\\Exercism - CarsAssemble\\Exercism - CarsAssemble\\Exercism - CarsAssemble.csproj",
+      "projectPath": "C:\\Users\\Michal.Parka\\OneDrive - cgpbooks.co.uk\\Powershell\\GitHubRepo\\Exercism\\C#\\CarsAssemble\\Exercism - CarsAssemble\\Exercism - CarsAssemble.csproj",
       "packagesPath": "C:\\Users\\Michal.Parka\\.nuget\\packages\\",
-      "outputPath": "D:\\VisualStudioRepository\\Exercism - CarsAssemble\\Exercism - CarsAssemble\\obj\\",
+      "outputPath": "C:\\Users\\Michal.Parka\\OneDrive - cgpbooks.co.uk\\Powershell\\GitHubRepo\\Exercism\\C#\\CarsAssemble\\Exercism - CarsAssemble\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Michal.Parka\\AppData\\Roaming\\NuGet\\NuGet.Config",
