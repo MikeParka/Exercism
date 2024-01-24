@@ -1,0 +1,14 @@
+D:\VisualStudioRepository\Exercism - Log Analysis\Exercism - Log Analysis\obj\Debug\net8.0\Exercism - Log Analysis.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioRepository\Exercism - Log Analysis\Exercism - Log Analysis\obj\Debug\net8.0\Exercism - Log Analysis.AssemblyInfoInputs.cache
+D:\VisualStudioRepository\Exercism - Log Analysis\Exercism - Log Analysis\obj\Debug\net8.0\Exercism - Log Analysis.AssemblyInfo.cs
+D:\VisualStudioRepository\Exercism - Log Analysis\Exercism - Log Analysis\obj\Debug\net8.0\Exercism - Log Analysis.csproj.CoreCompileInputs.cache
+D:\VisualStudioRepository\Exercism - Log Analysis\Exercism - Log Analysis\bin\Debug\net8.0\Exercism - Log Analysis.exe
+D:\VisualStudioRepository\Exercism - Log Analysis\Exercism - Log Analysis\bin\Debug\net8.0\Exercism - Log Analysis.deps.json
+D:\VisualStudioRepository\Exercism - Log Analysis\Exercism - Log Analysis\bin\Debug\net8.0\Exercism - Log Analysis.runtimeconfig.json
+D:\VisualStudioRepository\Exercism - Log Analysis\Exercism - Log Analysis\bin\Debug\net8.0\Exercism - Log Analysis.dll
+D:\VisualStudioRepository\Exercism - Log Analysis\Exercism - Log Analysis\bin\Debug\net8.0\Exercism - Log Analysis.pdb
+D:\VisualStudioRepository\Exercism - Log Analysis\Exercism - Log Analysis\obj\Debug\net8.0\Exercism - Log Analysis.dll
+D:\VisualStudioRepository\Exercism - Log Analysis\Exercism - Log Analysis\obj\Debug\net8.0\refint\Exercism - Log Analysis.dll
+D:\VisualStudioRepository\Exercism - Log Analysis\Exercism - Log Analysis\obj\Debug\net8.0\Exercism - Log Analysis.pdb
+D:\VisualStudioRepository\Exercism - Log Analysis\Exercism - Log Analysis\obj\Debug\net8.0\Exercism - Log Analysis.genruntimeconfig.cache
+D:\VisualStudioRepository\Exercism - Log Analysis\Exercism - Log Analysis\obj\Debug\net8.0\ref\Exercism - Log Analysis.dll
